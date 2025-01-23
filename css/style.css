@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+h1{
+    color: red;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap ;
+    margin: 2%;
+}
+
+.margin{
+    margin: 3%;
+    background-color: black;
+    color: white;
+    width: 25%;
+}
+
+.container-col{
+    flex-direction: column;
+}
